@@ -11,3 +11,6 @@ while 1:
             password_char = random.choice(chars)
             password = password + password_char
         print('Here is your password: ', password)
+
+        
+        //add wordlists
